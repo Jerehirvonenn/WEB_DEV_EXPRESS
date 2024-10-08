@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "text": "Master c++ over the weekend",
+    "completed": true
+  },
+  {
+    "id": 2,
+    "text": "Learn javascript",
+    "completed": false
+  },
+  {
+    "id": 3,
+    "text": "Refresh memory on css and html",
+    "completed": false
+  },
+  {
+    "id": 1728315696522,
+    "text": "Making new one Test!",
+    "completed": false
+  },
+  {
+    "id": 1728315714966,
+    "text": "Learn Python!",
+    "completed": false
+  },
+  {
+    "id": 1728316945269,
+    "text": "bububu babababa",
+    "completed": false
+  }
+]
